@@ -19,5 +19,5 @@ Forecast game-level ticket demand using historical sales, team schedule, opponen
 - Matplotlib, Seaborn for visualization
 
 ## 📄 Files
-- `notebooks/demand_forecasting_assignment.ipynb`: Full modeling pipeline
-- `report/`: Written business summary of insights
+- `demand_forecasting_assignment.ipynb`: Full modeling pipeline
+- `Atlanta Braves Ticket Demand Forecasting`: Presentation of insights
