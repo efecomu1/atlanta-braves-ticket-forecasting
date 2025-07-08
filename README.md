@@ -20,4 +20,3 @@ Forecast game-level ticket demand using historical sales, team schedule, opponen
 
 ## 📄 Files
 - `Demand Forecasting Assignment.ipynb`: Full modeling pipeline
-- `Atlanta Braves Ticket Demand Forecasting`: Presentation of insights
